@@ -26,3 +26,6 @@ group :development do
 end
 
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+
+# Custom gems
+gem 'devise', '~> 4.2'
